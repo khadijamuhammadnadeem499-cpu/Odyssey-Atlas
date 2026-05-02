@@ -2,16 +2,7 @@
 
 **25+ Destinations | Asia | Pakistan | World | Trending 2026**
 
-Odyssey Atlas is a modern, visually immersive travel platform designed for the modern explorer. Whether you are looking for hidden gems in Pakistan or trending global hotspots, this project provides a seamless, responsive experience for discovering your next adventure.
-
----
-
-## 🚀 Quick Start
-
-### Option A: Instant Offline Use (No Setup)
-
-* Locate the file: `odyssey-atlas-OPEN-THIS.html`
-* Double-click to open it in any modern browser (Chrome, Firefox, Safari, Edge).
+Odyssey Atlas is a modern, visually immersive travel platform designed for the modern explorer. Whether you are looking for hidden gems in Pakistan or trending global hotspots, this project provides a seamless, responsive experi
 * No local server or installation required.
 
 ### Option B: Online Hosting (For Developers)
